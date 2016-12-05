@@ -13,7 +13,7 @@ REPO=$(cat .git/config | grep "git@github.com" | cut -f 2 -d ':' | sed s/\.git//
 
 if [ -f $(which hub) ]; then
   echo '自動送 pull-request...'
-  hub pull-request -m "Please add my sign!!" -b RainbowEngineer/taiwan_love_wins -h master
+  hub pull-request -m "Please add my sign!!" -b master -h RainbowEngineer/taiwan_love_wins
 else
   
   echo '系統沒有安裝hub，請前往以下網址送出pull request：'
