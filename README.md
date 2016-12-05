@@ -6,6 +6,12 @@
 
 ## 如何連署？
 
-請在signatures資料夾裡面push一個新的檔案，檔案命名原則為signed_by_xxxxx.txt，您可以在裡面寫入各種支持同婚的文字，或使用根目錄的template.txt也是可以的。
+請在signatures資料夾裡面新增新的檔案，檔案命名原則為signed_by_${USERNAME}.txt，您可以在裡面寫入各種支持同婚的文字，或使用根目錄的template.txt也可以。
+
+寫完後，請執行：
+
+    ./sign.sh signatures/signed_by_${USERNAME}.txt
+
+並輸入您認為適合的commit message即可。
 
 歡迎大家用非常踴躍的push展現你對同婚的支持！
