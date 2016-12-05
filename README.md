@@ -6,6 +6,6 @@
 
 ## 如何連署？
 
-請在signatures資料夾裡面push一個新的檔案，檔案命名原則為signed_by_xxxxx.txt，您可以在裡面寫入各種支持同婚的文字，或使用根目錄的template.txt也是可以的。
+請在signatures資料夾裡面push一個新的檔案，檔案命名原則為signed_by_xxxxx.txt，您可以在裡面寫入各種支持同婚的文字，或使用根目錄的template.txt也是可以的。(所以要請fork, git pull, git commit, git push 然後再發Pull Request)
 
 歡迎大家用非常踴躍的push展現你對同婚的支持！
