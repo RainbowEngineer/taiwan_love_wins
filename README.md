@@ -18,9 +18,9 @@
 
 歡迎大家用非常踴躍的push展現你對同婚的支持！
 
-### Via Github
+### 我在用手機，沒 CLI 可以用！
 
 若您手邊沒有 CLI 可以用，可以直接用 [Github 的網頁版編輯界面送 PR](https://help.github.com/articles/editing-files-in-another-user-s-repository/)：
 
-1. 點擊[這裡](https://github.com/RainbowEngineer/taiwan_love_wins/new/master/signatures?filename=signed_by_${USERNAME}.md)，換掉檔名裡的 `${USERNAME}`，Github 會自動 fork 並且送 commit 到你自己的 fork。
+1. 點擊[**這裡**:pencil:](https://github.com/RainbowEngineer/taiwan_love_wins/new/master/signatures?filename=signed_by_${USERNAME}.md)，換掉檔名裡的 `${USERNAME}`，Github 會自動 fork 並且送 commit 到你自己的 fork。
 2. Commit 之後，會有個按鈕讓你 Create Pull Request。
