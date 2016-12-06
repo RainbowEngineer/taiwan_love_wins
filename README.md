@@ -15,7 +15,7 @@
 
 若您懶得下這些命令，fork與clone以後，請在新增檔案後，執行：
 
-    ./sign.sh signatures/signed_by_${USERNAME}.md
+    ./sign.sh
 
 並輸入您認為適合的 commit message 即可。
 
