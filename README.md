@@ -6,7 +6,9 @@
 
 ## 如何連署？
 
-請在signatures資料夾裡面新增新的檔案，檔案命名原則為signed_by_${USERNAME}.md，您可以在裡面寫入各種支持同婚的文字，或使用根目錄的template.txt也是可以的。（所以要請fork, git pull, git commit, git push 然後再發Pull Request）
+### Via CLI
+
+請在signatures資料夾裡面新增新的檔案，檔案命名原則為`signed_by_${USERNAME}.md`，您可以在裡面寫入各種支持同婚的文字，或使用根目錄template.txt也是可以的。（所以要請fork, git pull, git commit, git push 然後再發Pull Request）
 
 若您懶得下這些命令，fork與clone以後，請在新增檔案後，執行：
 
@@ -15,3 +17,10 @@
 並輸入您認為適合的commit message即可。
 
 歡迎大家用非常踴躍的push展現你對同婚的支持！
+
+### 我在用手機，沒 CLI 可以用！
+
+若您手邊沒有 CLI 可以用，可以直接用 [Github 的網頁版編輯界面送 PR](https://help.github.com/articles/editing-files-in-another-user-s-repository/)：
+
+1. 點擊[**這裡**:pencil:](https://github.com/RainbowEngineer/taiwan_love_wins/new/master/signatures?filename=signed_by_${USERNAME}.md)，換掉檔名裡的 `${USERNAME}`，Github 會自動 fork 並且送 commit 到你自己的 fork。
+2. Commit 之後，會有個按鈕讓你 Create Pull Request。
