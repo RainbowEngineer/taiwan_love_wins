@@ -44,6 +44,8 @@ if [ "${USE_TEMPLATE}" -eq 1 ];then
     cp template.md signatures/signed_by_${GITHUB_USERNAME}.md
   fi
   git add signatures/signed_by_${GITHUB_USERNAME}.md
+else
+  git add "$1"
 fi
 git commit
 git push
