@@ -1,0 +1,1 @@
+![](https://softmanjournal.files.wordpress.com/2016/12/15304512_10202741593737383_6917869826337115229_o.jpg?w=600&h=600)
