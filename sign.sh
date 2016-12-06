@@ -53,6 +53,7 @@ git push
 command -v hub >/dev/null 2>&1 || {
   echo '系統沒有安裝 hub，請前往以下網址以送出 pull request：'
   echo "https://github.com/${GITHUB_USERNAME}/taiwan_love_wins/pull/new/master"
+  popd
   exit 1;
 }
 
