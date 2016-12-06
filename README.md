@@ -1,4 +1,4 @@
-# 資訊界連署挺同婚 [![目前參與人數](https://img.shields.io/github/contributors/RainbowEngineer/taiwan_love_wins.svg)](https://github.com/RainbowEngineer/taiwan_love_wins/graphs/contributors)
+# 資訊界連署挺同婚 [![目前參與人數](https://img.shields.io/github/contributors/RainbowEngineer/taiwan_love_wins.svg?label=%E7%9B%AE%E5%89%8D%E5%8F%83%E8%88%87%E4%BA%BA%E6%95%B8)](https://github.com/RainbowEngineer/taiwan_love_wins/graphs/contributors)
 
 我們是一群支持修正民法 972 的資訊人。身為資訊人，我們相信理性且有效的溝通將能促進人類發展的方向。人類的溝通方式經過了口耳相傳、書信、電話，發展到現在的網際網路。人類交流資訊的速度未曾像如今如此之快捷，取得資訊的方式未曾如此簡單，我們也相信，藉由您手上的不斷革新的 iPhone 或精益求精的 Android、桌機中經典的 Intel、每天必看的 Facebook、解答您人生疑難的 Google，您可以獲得更多的知識。我們，與締造這些工具背後的 LGBT+ 朋友們，都希望您可以多了解關於同婚的正確資訊，可以支持在這個星球上每個人都有平等成家的權利。
 
