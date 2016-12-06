@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# uncomment this for debug
+# uncomment this for debug.
 # set -o xtrace
 
 # This is a file use to sign. Please input file as parameter.
