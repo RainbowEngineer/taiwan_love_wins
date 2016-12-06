@@ -6,11 +6,11 @@
 
 ## 如何連署？
 
-請在signatures資料夾裡面新增新的檔案，檔案命名原則為signed_by_${USERNAME}.txt，您可以在裡面寫入各種支持同婚的文字，或使用根目錄的template.txt也是可以的。（所以要請fork, git pull, git commit, git push 然後再發Pull Request）
+請在signatures資料夾裡面新增新的檔案，檔案命名原則為signed_by_${USERNAME}.md，您可以在裡面寫入各種支持同婚的文字，或使用根目錄的template.txt也是可以的。（所以要請fork, git pull, git commit, git push 然後再發Pull Request）
 
 若您懶得下這些命令，fork與clone以後，請在新增檔案後，執行：
 
-    ./sign.sh signatures/signed_by_${USERNAME}.txt
+    ./sign.sh signatures/signed_by_${USERNAME}.md
 
 並輸入您認為適合的commit message即可。
 
