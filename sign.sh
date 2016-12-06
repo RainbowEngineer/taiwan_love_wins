@@ -8,6 +8,12 @@
 
 pushd $(dirname $0)
 REPO=$(cat .git/config | grep "git@github.com" | cut -f 2 -d ':' | sed s/\.git//)
+username=$(git config --get remote.origin.url | awk -F@\|:\|/ '{if($3 == "") print $5; else print $3}')
+
+if [ $username = "RainbowEngineer" ]; then
+	echo "請 fork 這個 repo 後再 clone 重新執行 sign.sh"
+	exit 1;
+fi
 
 git pull
 git remote add upstream https://github.com/RainbowEngineer/taiwan_love_wins.git 2> /dev/null
