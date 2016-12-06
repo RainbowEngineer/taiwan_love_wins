@@ -4,13 +4,13 @@
 # set -o xtrace
 
 # This is a file use to sign. Please input file as parameter.
-# Usage: ./sign.sh signed_by_${USERNAME}.txt
+# Usage: ./sign.sh signed_by_${USERNAME}.md
 
 pushd $(dirname $0)
 REPO=$(cat .git/config | grep "git@github.com" | cut -f 2 -d ':' | sed s/\.git//)
 
 git pull
-git remote add upstream https://github.com/RainbowEngineer/taiwan_love_wins.git
+git remote add upstream https://github.com/RainbowEngineer/taiwan_love_wins.git 2> /dev/null
 git fetch upstream
 git merge upstream/master
 git push
