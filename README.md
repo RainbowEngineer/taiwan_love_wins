@@ -1,17 +1,44 @@
-# 資訊界連署挺同婚
+# 資訊界連署挺同婚 [![目前參與人數](https://img.shields.io/github/contributors/RainbowEngineer/taiwan_love_wins.svg?label=%E7%9B%AE%E5%89%8D%E5%8F%83%E8%88%87%E4%BA%BA%E6%95%B8)](https://github.com/RainbowEngineer/taiwan_love_wins/graphs/contributors)
 
-我們是一群支持修正民法972的資訊人。身為資訊人，我們相信理性且有效的溝通將能促進人類發展的方向。人類的溝通方式經過了口耳相傳、書信、電話，發展到現在的網際網路。人類交流資訊的速度未曾像如今如此之快捷，取得資訊的方式未曾如此簡單，我們也相信，藉由您手上的不斷革新的iPhone或精益求精的Android、桌機中經典的Intel、每天必看的Facebook、解答您人生疑難的Google，您可以獲得更多的知識。我們，與締造這些工具背後的LGBT+朋友們，都希望您可以多了解關於同婚的正確資訊，可以支持在這個星球上每個人都有平等成家的權利。
+我們是一群支持修正民法 972 的資訊人。身為資訊人，我們相信理性且有效的溝通將能促進人類發展的方向。人類的溝通方式經過了口耳相傳、書信、電話，發展到現在的網際網路。人類交流資訊的速度未曾像如今如此之快捷，取得資訊的方式未曾如此簡單，我們也相信，藉由您手上的不斷革新的 iPhone 或精益求精的 Android、桌機中經典的 Intel、每天必看的 Facebook、解答您人生疑難的 Google，您可以獲得更多的知識。我們，與締造這些工具背後的 LGBT+ 朋友們，都希望您可以多了解關於同婚的正確資訊，可以支持在這個星球上每個人都有平等成家的權利。
 
 我們相信，LGBT+族群與異性戀並無不同，基於憲法保障之平等權，應與異性戀者享有相同婚姻保障與民法地位。
 
+> 我認為許多壞事與錯誤都來自誤解，溝通就是解決誤解的最好方式，網路本身就是一種溝通方法，而它應該是好的方法
+> -- Tim Berners-Lee 提姆·柏納-李 網際網路發明人
+
 ## 如何連署？
 
-請在signatures資料夾裡面新增新的檔案，檔案命名原則為signed_by_${USERNAME}.md，您可以在裡面寫入各種支持同婚的文字，或使用根目錄的template.txt也是可以的。（所以要請fork, git pull, git commit, git push 然後再發Pull Request）
+### Via CLI
 
-若您懶得下這些命令，fork與clone以後，請在新增檔案後，執行：
+請在 `signatures` 資料夾裡面新增新的檔案，檔案命名原則為 `signed_by_${USERNAME}.md`，您可以在裡面寫入各種支持同婚的文字，或使用根目錄 `template.md` 也是可以的。（所以要請 fork, git clone, git pull, git commit, git push 然後再發 Pull Request）
+
+若您懶得下這些命令，fork與clone以後，請在 `signatures` 資料夾裡面新增檔案後，執行：
 
     ./sign.sh signatures/signed_by_${USERNAME}.md
 
-並輸入您認為適合的commit message即可。
+並輸入您認為適合的 commit message 即可。
 
-歡迎大家用非常踴躍的push展現你對同婚的支持！
+歡迎大家用非常踴躍的 pull request 展現你對同婚的支持！
+
+### 我在用手機，沒 CLI 可以用！
+
+若您手邊沒有 CLI 可以用，可以直接用 [Github 的網頁版編輯界面送 PR](https://help.github.com/articles/editing-files-in-another-user-s-repository/)：
+
+1. 點擊[**這裡**:pencil:](https://github.com/RainbowEngineer/taiwan_love_wins/new/master?filename=signatures/signed_by_${USERNAME}.md)，換掉檔名裡的 `${USERNAME}`，Github 會自動 fork 並且送 commit 到你自己的 fork。
+2. Commit 之後，會有個按鈕讓你 Create Pull Request。
+
+## 參與活動
+
+2016/12/10 下午 13:00 到 20:00，許多團體將會在凱達格蘭大道舉辦音樂會，歡迎大家參加！
+
+<a href="http://www.google.com/calendar/event?
+action=TEMPLATE
+&text=1210%20%E8%AE%93%E7%94%9F%E5%91%BD%E4%B8%8D%E5%86%8D%E9%80%9D%E5%8E%BB%EF%BC%8C%E7%82%BA%E5%A9%9A%E5%A7%BB%E5%B9%B3%E6%AC%8A%E7%AB%99%E5%87%BA%E4%BE%86%20%E9%9F%B3%E6%A8%82%E6%9C%83
+&dates=20161210T050000Z/20161210T120000Z
+&details=https%3A%2F%2Fwww.facebook.com%2Fevents%2F608609792656897%2F%0A%0A%E7%B6%93%E9%81%8E%E5%85%A9%E5%A0%B4%E5%85%AC%E8%81%BD%E6%9C%83%EF%BC%8C%E5%A9%9A%E5%A7%BB%E5%B9%B3%E6%AC%8A%E7%9A%84%E6%B0%91%E6%B3%95%E4%BF%AE%E6%AD%A3%E6%A1%88%E5%8D%B3%E5%B0%87%E7%B9%BC%E7%BA%8C%E5%9C%A8%E5%A7%94%E5%93%A1%E6%9C%83%E4%B8%AD%E5%AF%A9%E8%AD%B0%EF%BC%8C%E5%80%BC%E6%AD%A4%E5%90%8C%E6%99%82%EF%BC%8C%E6%88%91%E5%80%91%E5%8D%BB%E7%9C%8B%E8%A6%8B%E6%AD%A7%E8%A6%96%E8%AC%A0%E8%A8%80%E4%BB%8D%E7%84%B6%E6%BC%AB%E5%A4%A9%E5%82%B3%E4%BD%88%20%EF%BC%8C%E4%B8%8D%E5%83%85%E5%B0%8D%E5%90%8C%E5%BF%97%E6%97%8F%E7%BE%A4%E9%80%A0%E6%88%90%E5%9A%B4%E9%87%8D%E5%82%B7%E5%AE%B3%EF%BC%8C%E6%9B%B4%E6%8C%91%E8%B5%B7%E5%8F%B0%E7%81%A3%E7%A4%BE%E6%9C%83%E7%9A%84%E5%B0%8D%E7%AB%8B%E3%80%82%E5%9F%B7%E6%94%BF%E9%BB%A8%E9%81%B8%E5%89%8D%E4%BF%A1%E8%AA%93%E6%97%A6%E6%97%A6%E8%90%BD%E5%AF%A6%E5%A9%9A%E5%A7%BB%E5%B9%B3%E6%AC%8A%EF%BC%8C%E5%8D%BB%E4%BC%BC%E4%B9%8E%E5%9B%A0%E7%82%BA%E5%8F%8D%E5%90%8C%E6%96%B9%E6%8A%B9%E9%BB%91%E8%88%87%E6%83%A1%E6%84%8F%EF%BC%8C%E6%B5%AE%E7%8F%BE%E4%BA%86%E5%8F%A6%E7%AB%8B%E5%B0%88%E6%B3%95%E7%9A%84%E5%8B%95%E6%90%96%E6%84%8F%E5%9C%96%E3%80%82%20%0A%0A%E5%90%8C%E5%BF%97%E5%80%91%E5%BF%8D%E7%84%A1%E5%8F%AF%E5%BF%8D%EF%BC%8C%E7%9F%AD%E7%9F%AD%E5%85%A9%E5%A4%A9%E9%80%8F%E9%81%8E%E7%B6%B2%E8%B7%AF%E7%B7%8A%E6%80%A5%E5%8B%95%E5%93%A1%EF%BC%8C%E5%8D%B3%E5%9C%A8%E7%AB%8B%E6%B3%95%E9%99%A2%E6%96%BC1128%E7%AC%AC%E4%BA%8C%E5%A0%B4%E5%90%8C%E6%80%A7%E5%A9%9A%E5%A7%BB%E5%85%AC%E8%81%BD%E6%9C%83%E6%99%82%EF%BC%8C%E4%BE%86%E8%87%AA%E5%8F%B0%E7%81%A3%E5%90%84%E5%9C%B0%E8%81%9A%E9%9B%86%E4%B8%89%E8%90%AC%E4%BA%BA%E5%A1%9E%E7%88%86%E7%AB%8B%E6%B3%95%E9%99%A2%E9%9D%92%E5%B3%B6%E6%9D%B1%E8%B7%AF%E5%81%B4%EF%BC%8C%E4%BB%A5%E5%AF%A6%E9%9A%9B%E8%A1%8C%E5%8B%95%E5%91%8A%E8%A8%B4%E6%94%BF%E5%BA%9C%EF%BC%9A%E4%BA%BA%E6%AC%8A%E7%84%A1%E6%B3%95%E9%80%80%E8%AE%93%EF%BC%8C%E5%90%8C%E5%BF%97%E4%B8%8D%E6%98%AF%E4%BA%8C%E7%AD%89%E5%85%AC%E6%B0%91%E3%80%82%20%0A%0A%E7%84%B6%E8%80%8C%E9%80%99%E4%B8%A6%E9%9D%9E%E5%A9%9A%E5%A7%BB%E5%B9%B3%E6%AC%8A%E6%88%B0%E5%BD%B9%E7%9A%84%E6%9C%80%E7%B5%82%E7%AB%A0%EF%BC%8C%E5%8D%B1%E6%A9%9F%E5%B0%9A%E6%9C%AA%E8%A7%A3%E9%99%A4%EF%BC%81%E8%AB%8B%E5%90%84%E4%BD%8D%E5%A4%A5%E4%BC%B4%E4%B8%8D%E8%A6%81%E9%AC%86%E6%87%88%EF%BC%8C%E8%AB%8B%E6%8C%81%E7%BA%8C%E7%9B%A3%E7%9D%A3%E6%94%BF%E5%BA%9C%E5%85%8C%E7%8F%BE%E9%81%B8%E5%89%8D%E6%89%BF%E8%AB%BE%EF%BC%8C%E8%AB%8B%E6%8C%81%E7%BA%8C%E7%B9%83%E7%B7%8A%E7%A5%9E%E7%B6%93%E6%8A%B5%E6%8A%97%E7%A4%BE%E6%9C%83%E6%AD%A7%E8%A6%96%EF%BC%8C%E7%82%BA%E4%BA%86%E5%B7%B2%E7%B6%93%E9%80%9D%E5%8E%BB%E7%9A%84%E7%94%9F%E5%91%BD%EF%BC%8C%E6%9B%B4%E7%82%BA%E4%BA%86%E5%9B%A0%E7%82%BA%E6%80%A7%E5%88%A5%E6%B0%A3%E8%B3%AA%E7%89%B9%E6%AE%8A%E8%80%8C%E9%9D%A2%E5%B0%8D%E6%9A%B4%E5%8A%9B%E5%B0%8D%E5%BE%85%E7%9A%84%E7%94%9F%E5%91%BD%EF%BC%81%20%0A%0A12%E6%9C%8810%E6%97%A5(%E6%98%9F%E6%9C%9F%E5%85%AD)%E4%B8%96%E7%95%8C%E4%BA%BA%E6%AC%8A%E6%97%A5%EF%BC%8C%E9%82%80%E8%AB%8B%E6%89%80%E6%9C%891128%E5%9C%A8%E7%8F%BE%E5%A0%B4%E5%A0%85%E6%8C%81%E5%A5%AE%E6%88%B0%E7%9A%84%E4%BA%BA%EF%BC%8C%E4%B9%9F%E9%82%80%E8%AB%8B1128%E5%9B%A0%E7%82%BA%E4%B8%8A%E7%8F%AD%E7%84%A1%E6%B3%95%E5%88%B0%E5%A0%B4%EF%BC%8C%E4%BE%9D%E7%84%B6%E5%BF%83%E5%BF%83%E5%BF%B5%E5%BF%B5%E5%A9%9A%E5%A7%BB%E5%B9%B3%E6%AC%8A%E7%9A%84%E6%AF%8F%E5%80%8B%E5%A4%A5%E4%BC%B4%E3%80%82%20%0A%0A%E3%80%8C%E8%AE%93%E7%94%9F%E5%91%BD%E4%B8%8D%E5%86%8D%E9%80%9D%E5%8E%BB%EF%BC%8C%E7%82%BA%E5%A9%9A%E5%A7%BB%E5%B9%B3%E6%AC%8A%E7%AB%99%E5%87%BA%E4%BE%86%E3%80%8D%E9%9F%B3%E6%A8%82%E6%9C%83%20%0A%E6%99%82%E9%96%93%3A12%E6%9C%8810%E6%97%A5(%E6%98%9F%E6%9C%9F%E5%85%AD)%E4%B8%8B%E5%8D%88%E4%B8%80%E9%BB%9E%E5%85%A5%E5%A0%B4%EF%BC%8C%E4%B8%8B%E5%8D%88%E4%B8%89%E9%BB%9E%E9%96%8B%E5%A7%8B%EF%BC%8C%E6%99%9A%E9%96%93%E5%85%AB%E9%BB%9E%E7%B5%90%E6%9D%9F%E3%80%82%20%0A%E5%9C%B0%E9%BB%9E%3A%E5%87%B1%E9%81%94%E6%A0%BC%E8%98%AD%E5%A4%A7%E9%81%93%20%0A%0A%E8%AB%8B%E5%92%8C%E6%88%91%E5%80%91%E5%9C%A8%E4%B8%80%E8%B5%B7%EF%BC%81%E3%80%8C%E8%AE%93%E7%94%9F%E5%91%BD%E4%B8%8D%E5%86%8D%E9%80%9D%E5%8E%BB%EF%BC%8C%E7%82%BA%E5%A9%9A%E5%A7%BB%E5%B9%B3%E6%AC%8A%E7%AB%99%E5%87%BA%E4%BE%86%E3%80%8D%E9%9F%B3%E6%A8%82%E6%9C%83%EF%BC%8C%E7%8F%BE%E5%A0%B4%E5%B0%87%E6%9C%89%E9%99%90%E5%AE%9A%E5%BD%A9%E8%99%B9%E5%B0%8F%E7%89%A9%E7%BE%A9%E8%B3%A3%EF%BC%8C%E4%B8%A6%E9%82%80%E8%AB%8B%E5%90%84%E7%95%8C%E9%9F%B3%E6%A8%82%E4%BA%BA%E6%8C%BA%E5%90%8C%E5%BF%97%EF%BC%8C%E9%82%80%E8%AB%8B%E6%89%80%E6%9C%89%E7%9A%84%E5%8F%B0%E7%81%A3%E5%85%AC%E6%B0%91%E8%88%87%E6%88%91%E5%80%91%E4%B8%80%E8%B5%B7%EF%BC%8C%E7%9B%B8%E6%8C%BA%E7%82%BA%E5%B9%B3%E6%AC%8A%EF%BC%8C%E5%85%A8%E6%B0%91%E6%92%90%E5%90%8C%E5%BF%97%EF%BC%81%EF%BC%81%20%0A%0A%E4%B8%BB%E8%BE%A6%E5%96%AE%E4%BD%8D%3A%20%0A%E5%8F%B0%E7%81%A3%E5%90%8C%E5%BF%97%E8%AB%AE%E8%A9%A2%E7%86%B1%E7%B7%9A%0A%E5%8F%B0%E7%81%A3%E5%90%8C%E5%BF%97%E5%AE%B6%E5%BA%AD%E6%AC%8A%E7%9B%8A%E4%BF%83%E9%80%B2%E6%9C%83%0A%E5%A9%A6%E5%A5%B3%E6%96%B0%E7%9F%A5%E5%9F%BA%E9%87%91%E6%9C%83%20%0A%E5%90%8C%E5%BF%97%E4%BA%BA%E6%AC%8A%E6%B3%95%E6%A1%88%E9%81%8A%E8%AA%AA%E8%81%AF%E7%9B%9F%20%0AQueermosa%20Awards%20%E9%85%B7%E6%91%A9%E6%B2%99%E7%8D%8E%0A%E5%90%8C%E5%85%89%E5%90%8C%E5%BF%97%E9%95%B7%E8%80%81%E6%95%99%E6%9C%83%0A%E7%9C%9F%E5%85%89%E7%A6%8F%E9%9F%B3%E6%95%99%E6%9C%83%0A%0A(%E4%B8%BB%E8%BE%A6%E5%96%AE%E4%BD%8D%E6%8C%81%E7%BA%8C%E5%A2%9E%E5%8A%A0%E4%B8%AD)%0A%0A12%2F10%20%E2%80%9CCherish%20Every%20Life%2C%20Support%20Marriage%20Equality%E2%80%9D%20Concert%0AWhen%3A%20Dec.%2010th%20(Sat.).%20Entry%20from%2013%3A00%2C%20performance%20starts%20at%2015%3A00%2C%20till%2020%3A00%0AWhere%3A%20Ketagalan%20Boulevard%2C%20Taipei%0A%0APlease%20join%20us!%20With%20a%20charity%20sale%20of%20rainbow%20merchandise%2C%20%E2%80%9CCherish%20Every%20Life%2C%20Support%20Marriage%20Equality%E2%80%9D%20Concert%20gathers%20musicians%20to%20express%20their%20support%20for%20the%20LGBT%20community.%20We%20invite%20every%20Taiwanese%20citizen%20to%20join%20us.%20Support%20equality%2C%20support%20LGBT!%0A%0AHosted%20by%3A%20%0ATaiwan%20Tonzhi%20Hotline%20Association%0ATaiwan%20LGBT%20Family%20Rights%20Advocacy%20Association%0AAwakening%20Foundation%0AThe%20Lobby%20Alliance%20for%20LGBT%20Human%20Rights%0AQueermosa%20Awards%0ATong-Kwang%20Light%20House%20Presbyterian%20Church%0ATrue%20Light%20Gospel%20Church
+&location=%E5%87%B1%E9%81%94%E6%A0%BC%E8%98%AD%E5%A4%A7%E9%81%93
+&trp=true
+&sprop=https://www.facebook.com/events/608609792656897/
+&sprop=name:"
+target="_blank" rel="nofollow">點我以加入日曆</a>
