@@ -13,9 +13,9 @@
 
 請在 `signatures` 資料夾裡面新增新的檔案，檔案命名原則為 `signed_by_${USERNAME}.md`，您可以在裡面寫入各種支持同婚的文字，或使用根目錄 `template.md` 也是可以的。（所以要請 fork, git clone, git commit, git push 然後再發 Pull Request）
 
-若您懶得下這些命令，fork與clone以後，請在 `signatures` 資料夾裡面新增檔案後，執行：
+若您懶得下這些命令，fork與clone以後，直接執行：
 
-    ./sign.sh signatures/signed_by_${USERNAME}.md
+    ./sign.sh -t
 
 並輸入您認為適合的 commit message 即可。
 
