@@ -1,1 +1,0 @@
-Equal Love Equal Rights

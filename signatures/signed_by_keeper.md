@@ -1,1 +1,0 @@
-Geeks for LGBT rights
