@@ -1,1 +1,0 @@
-nothing but equal

@@ -1,1 +1,0 @@
-Legalize Gay Marriage
