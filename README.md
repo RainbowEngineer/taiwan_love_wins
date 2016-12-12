@@ -33,6 +33,7 @@
 
 ## 參與活動
 
+* 2016/12/31 [彩虹台南遊行](https://www.facebook.com/1605816626386669/)
 * 2016/12/17 [台中同志大遊行](https://www.facebook.com/TCLGBTPride/)
 * 2016/12/10 下午 13:00 到 20:00，許多團體將會在[凱達格蘭大道舉辦音樂會](https://www.facebook.com/events/608609792656897)，歡迎大家參加！
 
