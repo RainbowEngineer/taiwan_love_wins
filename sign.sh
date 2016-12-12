@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # uncomment this for debug.
 # set -o xtrace
@@ -57,7 +57,7 @@ command -v hub >/dev/null 2>&1 || {
   exit 1;
 }
 
-echo '自動送 pull-request……'
+echo '自動送 pull request……'
 hub pull-request -b RainbowEngineer/taiwan_love_wins:master
 
 popd
