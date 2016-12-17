@@ -1,1 +1,0 @@
-:rainbow: :sparkling_heart:
