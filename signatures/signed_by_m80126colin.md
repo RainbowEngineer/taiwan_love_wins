@@ -1,0 +1,1 @@
+mi .ia krici lo nu prami .iju ro lo prenu cu fetsi .a nakni
