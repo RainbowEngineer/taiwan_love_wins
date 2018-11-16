@@ -1,4 +1,5 @@
 # 資訊界連署挺同婚 [![目前參與人數](https://img.shields.io/github/contributors/RainbowEngineer/taiwan_love_wins.svg?label=%E7%9B%AE%E5%89%8D%E5%8F%83%E8%88%87%E4%BA%BA%E6%95%B8)](https://github.com/RainbowEngineer/taiwan_love_wins/graphs/contributors)
+## Technologists that support marriage equality
 
 ![資訊界連署挺同婚](http://it.standwith.lgbt/images/logo.png)
 
@@ -10,7 +11,17 @@
 > 
 > -- Tim Berners-Lee 提姆·柏納-李 網際網路發明人
 
+We are a group of technologists that support a change to Civil Law 972. As technologists, we believe in rational dialogue as a way of promoting human advancement. Over time, the methods that people use to communicate have changed from word-of-mouth, letters, to the internet. Whether it's the iPhone or Android phone in your pocket to the Intel processor in your computer, Facebook or Google, the speed and convenience of communications continues to increase, allowing for an abundant spread of information. We, alongside LGBT+ creators of these tools, hope you will use them to understand more information regarding marriage equality and support the universal human rights of every single person on this planet. 
+
+We believe LGBT+ folk deserve equal protection and status under the same civil law that protects straight folks. 
+
+> I think, in general, it's clear that most bad things come from misunderstanding, and communication is generally the way to resolve misunderstandings -- and the Web's a form of communications -- so it generally should be good. 
+>
+> -- Tim Berners-Lee 提姆·柏納-李 網際網路發明人
+
+
 ## 如何連署？
+### How do I sign? 
 
 ### Via CLI
 
@@ -19,19 +30,38 @@
 若您懶得下這些命令，fork 與 clone 以後，直接執行：
 
     ./sign.sh -t
+    
+
 
 並輸入您認為適合的 commit message 即可。
 
 歡迎大家用非常踴躍的 pull request 展現你對同婚的支持！
 
+
+Please create a markdown file in the `signatures` folder following the naming scheme: `signed_by_${USERNAME}.md`. You can write whatever you want in support of marriage equality there. Please then make a pull request to this repository. 
+
+If you're too lazy to even do that, after forking and cloning the repository locally, run: 
+
+`./sign.sh -t`
+
+Put in an appopriate commit message. 
+
+Everyone is welcome to use their PRs to support marriage equality! 
+
 ### 我在用手機，沒 CLI 可以用！
+#### I'm on mobile! I don't have a CLI to use! 
 
 若您手邊沒有 CLI 可以用，可以直接用 [GitHub 的網頁版編輯界面送 PR](https://help.github.com/articles/editing-files-in-another-user-s-repository/)：
 
 1. 點擊[**這裡**:pencil:](https://github.com/RainbowEngineer/taiwan_love_wins/new/master?filename=signatures/signed_by_${USERNAME}.md)，換掉檔名裡的 `${USERNAME}`，GitHub 會自動 fork 並且送 commit 到你自己的 fork。
 2. Commit 之後，會有個按鈕讓你 Create Pull Request。
 
+You can use Github to create a PR. Follow [GitHub 的網頁版編輯界面送 PR](https://help.github.com/articles/editing-files-in-another-user-s-repository/)：
+1. Click [**here**:pencil:](https://github.com/RainbowEngineer/taiwan_love_wins/new/master?filename=signatures/signed_by_${USERNAME}.md)，change `${USERNAME}` to your username. Github will automatically fork and commit from your own fork. 
+2. After committing, you can create a pull request back to this repository. 
+
 ## 參與活動
+Events you can participate in
 
 * 2016/12/31 [彩虹台南遊行](https://www.facebook.com/1605816626386669/)
 * 2016/12/26 [爭取婚姻平權，用愛守護立院](https://www.facebook.com/events/1262622793808800/)
